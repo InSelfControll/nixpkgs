@@ -115,6 +115,7 @@ let
       imadnyc
       FlameFlag
       johnrtitor
+      InSelfControll
     ];
     platforms = platforms.darwin ++ [
       "x86_64-linux"
